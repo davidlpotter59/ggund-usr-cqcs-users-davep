@@ -1,0 +1,32 @@
+/* prspremlosscnv.mf
+
+   February 16, 2016
+
+   macro to combine prspremloss from different companies into a consolidated report
+
+   SCIPS.com, Inc.
+*/
+
+clear list
+clear find
+clear sum
+
+cli rm prspremloss_flat
+cli rm prspremloss_delos_fl
+cli rm prspremloss_starr_fl
+
+/* set the dates for all of the macros to use including the report */
+run/set/param=prspremloss prspremloss
+
+/* Current Company extract */
+run/param=prspremloss prspremloss
+flat/fixed=431 prspremloss_flat
+
+/* DELOS/Imperium extract */
+run/param=prspremloss prspremloss_delos
+flat/fixed=431 prspremloss_delos_fl
+
+/* STARR extract */
+run/param=prspremloss prspremloss_starr
+flat/fixed=431 prspremloss_starr_fl
+

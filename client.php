@@ -1,0 +1,1 @@
+Welcome to SCIPS PHP/SOAP Development. You are successfully using Web Service Using PHP with SOAP

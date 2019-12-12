@@ -1,0 +1,33 @@
+viewpoint native;
+
+list/nobanner/domain="scipscontrol1"
+  scipscontrol1:company_id 
+  scipscontrol1:state 
+  scipscontrol1:lob_code 
+  scipscontrol1:water_backup_with_policy 
+  scipscontrol1:water_backup_without_policy 
+  scipscontrol1:premium_increase_percent_wording 
+  scipscontrol1:cancel_with_policy_on_renewal 
+  scipscontrol1:cancellation_eff_date 
+  scipscontrol1:cancellation_exp_date 
+  scipscontrol1:cancellation_code 
+  scipscontrol1:use_new_mailer_program 
+  scipscontrol1:mailer_starting_horizontal_pos 
+  scipscontrol1:mailer_starting_vertical_pos 
+  scipscontrol1:mailer_font_to_use 
+  scipscontrol1:logical_page_orientation 
+  scipscontrol1:hurricane_wording 
+  scipscontrol1:hurricane_print_form 
+  scipscontrol1:hurricane_eff_date 
+  scipscontrol1:water_backup_required 
+  scipscontrol1:palisades_credit_wording 
+  scipscontrol1:mailer_starting_horizontal_pos1 
+  scipscontrol1:mailer_starting_vertical_pos1 
+  scipscontrol1:mailer_font_to_use1 
+  scipscontrol1:logical_page_orientation1 
+  scipscontrol1:print_mailer_address_twice 
+  scipscontrol1:mailer_address_twice_on_back 
+  scipscontrol1:print_policy_form_on_all_decs 
+  scipscontrol1:print_common_policy_form_on_dec 
+  scipscontrol1:print_policy_form_on_cpp_decs 
+  scipscontrol1:expansion

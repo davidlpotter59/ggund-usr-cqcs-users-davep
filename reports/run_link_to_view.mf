@@ -1,0 +1,3 @@
+cli pwd
+cli cp /data/axis/policy_management_system/renewal_producer_20191125_990973.pdf ./renewal_producer_20191125_990973.pdf
+view renewal_producer_20191125_990973.pdf

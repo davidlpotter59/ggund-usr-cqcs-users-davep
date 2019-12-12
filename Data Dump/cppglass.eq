@@ -1,0 +1,12 @@
+list
+/domain="cppglass"
+/nobanner
+
+policy_no pol_year end_sequence prem_no build_no sub_code position_use territory special_conditions 
+obstructions deductible deductible_percent damaged_glass_exclusion optional_loss_payment 
+vacancy_unoccupancy retention length width square_feet class class_sub_code hotels_motels no_rooms 
+description glass_premium structural_bent structural_flat structural state plate_limitation 
+retention_amount position_use_factor special_condition_factor obstruction_factor deductible_factor 
+optional_loss_pay_factor vacancy_factor retention_factor glass_rate territory_factor misc_factor 
+package_mod company_deviation special_factor structural_tempered_class limit adj_rate 
+rating_territory_factor rating_line_of_business

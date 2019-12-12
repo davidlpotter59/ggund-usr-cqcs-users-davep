@@ -1,0 +1,16 @@
+where cppliability:policy_no => 800000500
+--and cppliability:policy_no < 800000500
+
+
+list/domain="cppliability"
+/nobanner
+
+policy_no pol_year end_sequence prem_no build_no fire_legal_premium fire_legal_factor seasonal 
+seasonal_no_days escalators_premium mechanical_devices_premium ski_lifts_premium pools_beaches_premium 
+escalator_inspection_premium elevator_inspection_premium escalators_2 pools_2 medical_payment_surcharge 
+class_description motel_with_pool rating_line_of_business church company_rate deductible 
+remove_terror_form liquor_liability total_irpm independent_contractor independent_contractor_premium 
+club restaurant athletic_event territory_description company_id line_of_business products_limit_table 
+exclusion_factor loss_cost minimum_premium_adjustment type remove_terrorism_form
+
+sorted by policy_no

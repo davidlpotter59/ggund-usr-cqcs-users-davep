@@ -1,0 +1,14 @@
+list 
+/domain="wcpgeneral"
+/nobanner
+
+policy_no pol_year end_sequence prem_no build_no state county employers_liability accident_limit 
+disease_limit disease_each_employee taxpayor_id policy_type_id_code companion_policy_no 
+companion_eff_date companion_exp_date previous_insurer previous_eff_date previous_exp_date 
+exp_mod_factor exp_mod_eff_date exp_mod_exp_date managed_care_credit business_desc remove_terror_form 
+anniversary_rating anniversary_eff_date anniversary_exp_date njccpap_percent factor factor1 premium_1 
+code cx_reins_type_code cx_mailed_date exp_mod_type previous_company_name previous_policy_number 
+pro_rata_unearned pro_rata_earned no_years print_posting_notice line_of_business company_id 
+safety_credit deductible merit_rating bureau_file_no
+
+sorted by policy_no

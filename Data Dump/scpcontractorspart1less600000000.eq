@@ -1,0 +1,22 @@
+where scpcontractor:policy_no < 600000000
+
+list 
+/domain="scpcontractor" 
+/nobanner
+
+
+policy_no pol_year end_sequence prem_no build_no state county construction protection building_limit 
+building_premium property_limit property_premium personal_limit personal_premium loss_limit loss_premium
+ building_acv building_acv_premium contents_acv contents_acv_premium rating_type deductible form 
+ar_limit ar_premium wind_deductible inflation_guard glass_limit glass_per glass_premium 
+signs_attached_limit signs_attached_prem signs_not_attached_limit signs_not_premium
+building_code_law off_prem_limit off_prem_premium debris_limit outdoor_glass_linear 
+outdoor_glass_deductible outdoor_property_limit outdoor_property_per outdoor_property_premium 
+personal_effects personal_effects_premium valuable_papers valuable_papers_premium money_limit_on 
+money_limit_off money_premium number_of_employees employee_dishonesty employee_dis_premium 
+computer_limit computer_premium excluding_theft limit_theft limit_theft_premium water_bkup_limit 
+water_bkup_premium company_id line_of_business property_total specified_exclusion general_exclusion 
+liab_deductible waive_deductible contracts_item_1 contracts_written year_construction occurrence 
+
+ 
+sorted by policy_no

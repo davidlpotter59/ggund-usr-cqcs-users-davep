@@ -1,0 +1,7 @@
+clear list
+clear find
+clear sum
+cli rm sfpname_sync
+run sfpname_sync_hold.eq
+run sfpname_sync_compare.eq
+view

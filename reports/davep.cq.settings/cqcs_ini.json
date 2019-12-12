@@ -1,0 +1,122 @@
+{
+    "Application settings AXIS_RUNTIME_REPORT_WRITING_810_1A" : {
+        "Editor mode" : "Textual",
+        "Importing now" : "0",
+        "Last directory" : "/usr/cqcs/users/davep/reports",
+        "Last filename" : "sfsend_all.eq",
+        "Recent enquiry 1a" : "sfsend_all.eq",
+        "Recent enquiry 1b" : "/usr/cqcs/users/davep/reports",
+        "Recent enquiry count" : "1",
+        "Recent format count" : "0",
+        "Recent report count" : "0",
+        "Report selection mode" : "Paint",
+        "Return GMode To Drill" : "0",
+        "Return GMode To Rep Ed" : "1",
+        "Search history - File dialog - open length" : "0",
+        "Search history - wizard fields length" : "0",
+        "TextEditorHelpVisible" : "1",
+        "TextEditorViewVisible" : "1"
+    },
+    "Application settings GSN_LIVE_TEST_POLICY_MANAGEMENT_SYSTEM_810" : {
+        "Editor mode" : "Textual",
+        "Last directory" : "",
+        "Last filename" : "",
+        "Recent enquiry count" : "0",
+        "Recent format count" : "0",
+        "Recent report 1a" : "vtmp51195_10.cqe",
+        "Recent report 1b" : "",
+        "Recent report 2a" : "vtmp51195_8.cqe",
+        "Recent report 2b" : "",
+        "Recent report 3a" : "vtmp40415_8.cqe",
+        "Recent report 3b" : "",
+        "Recent report 4a" : "vtmp40415_10.cqe",
+        "Recent report 4b" : "",
+        "Recent report count" : "4",
+        "Return GMode To Drill" : "0",
+        "Return GMode To Rep Ed" : "0",
+        "TextEditorHelpVisible" : "1",
+        "TextEditorViewVisible" : "1"
+    },
+    "Application settings POLICY_MANAGEMENT_SYSTEM_810" : {
+        "Editor mode" : "Textual",
+        "Last directory" : "",
+        "Last filename" : "",
+        "Recent enquiry count" : "0",
+        "Recent format count" : "0",
+        "Recent report 1a" : "vtmp48840_53.cqe",
+        "Recent report 1b" : "",
+        "Recent report 2a" : "vtmp48840_51.cqe",
+        "Recent report 2b" : "",
+        "Recent report 3a" : "vtmp48840_49.cqe",
+        "Recent report 3b" : "",
+        "Recent report 4a" : "vtmp48840_47.cqe",
+        "Recent report 4b" : "",
+        "Recent report count" : "4",
+        "Return GMode To Drill" : "0",
+        "Return GMode To Rep Ed" : "0",
+        "TextEditorHelpVisible" : "1",
+        "TextEditorViewVisible" : "1"
+    },
+    "Browse List" : {
+        "Report mode" : "0",
+        "Sort ascending" : "1",
+        "Sort column" : "0"
+    },
+    "CQW Crash Handling" : {
+        "Exception caught" : "1"
+    },
+    "CQW PLOT UI state" : {
+        "Across visibility" : "1",
+        "Body visibility" : "1",
+        "Recsel visibility" : "0",
+        "Sort visibility" : "1",
+        "TE visibility" : "1"
+    },
+    "CQW UI state" : {
+        "Across visibility" : "0",
+        "Body visibility" : "0",
+        "Message visibility" : "0",
+        "Message visibility macro" : "1",
+        "Recsel visibility" : "0",
+        "Sort visibility" : "0",
+        "TE visibility" : "0"
+    },
+    "Dialog sizes" : {
+        "CIRecoveryDlg height" : "442",
+        "CIRecoveryDlg width" : "896",
+        "Report wizard height" : "408",
+        "Report wizard width" : "686"
+    },
+    "Recovery dialog settings" : {
+        "Automatically show dialog" : "1"
+    },
+    "Run progress settings" : {
+        "Autoshow" : "No",
+        "Progress dialog X" : "1447",
+        "Progress dialog Y" : "95"
+    },
+    "Settings" : {
+        "Auto run if no report cache" : "Yes",
+        "Auto show record selection" : "Enabled",
+        "AutoUpdateExpLib" : "Yes",
+        "Data caching mode" : "Autorun",
+        "Default maxrecords" : "500",
+        "Default maxrecords mode" : "Disabled",
+        "FileDialogFiltersPersist" : "No",
+        "ItemTextDisplay" : "Full",
+        "LED Caret Line Highlight" : "1",
+        "LED Syntax Highlight" : "1",
+        "Parameter caching mode" : "Enabled",
+        "Placeholder item mode" : "Disabled",
+        "Report caching enabled" : "Yes",
+        "RuntimeErrorsDisplay" : "Popup",
+        "SortOrder" : "SequenceNumber",
+        "Stale hold days" : "0",
+        "Stale hold enabled" : "0",
+        "Stale hold hours" : "24",
+        "Stale hold minutes" : "0",
+        "TreatRuntimeWarningsAsErrors" : "Yes",
+        "User Default Fit To Mode" : "",
+        "User Default Zoom Level" : ""
+    }
+}

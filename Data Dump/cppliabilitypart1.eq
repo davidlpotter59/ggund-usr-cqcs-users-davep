@@ -1,0 +1,12 @@
+list/domain="cppliability"
+/nobanner
+
+policy_no pol_year end_sequence prem_no build_no class_code state county exposure_base rates_per 
+business_description base_rate territory_factor mcl030_discount increase_limits_factor aggregate_surcharge
+ package_mod adjusted_rate exposure prem company_deviation form include_products escalators 
+mechanical_devices ski_lifts pools beaches limits_table products_flat_charge elevators_inspections 
+territory total_premium group_no sub_group sub_code territory_table arate product_not_applicable 
+products_flat minimum_premium deductible_factor owners_contractors total_endorsements total_misc 
+rating_territory_group rating_territory rating_territory_sub_code premium popup_deviation
+
+sorted by policy_no

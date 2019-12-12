@@ -1,0 +1,19 @@
+where scpcontractor:policy_no < 600000000
+
+list 
+/domain="scpcontractor" 
+/nobanner
+
+policy_no pol_year end_sequence prem_no build_no increased_aggregate general_aggregate aggregate medical_payments fire_legal fire_premium personal_injury
+ limit_water_bkup business_desc exterior_glass exterior_glass_deduct exterior_glass_prem 
+liability_premium fire_alarm burglary_alarm superior_conditions property_rate exclude_theft_premium 
+expanded_premium scp_total money_limits remove_terror_form independent_contract_premium 
+breakout_property_subline dont_allow_waived_deductible exclude_scp100 rating_territory 
+rating_territory_factor rating_territory_sub_code rating_territory_group stories no_units 
+special_exposure special_exposure_factor employee_tools_limit employee_tools_per employee_dishonesty_per
+ lock_replacement arson_award cov_a_times cov_a_maximum cov_b_times cov_b_maximum cov_d_times 
+cov_d_maximum fire_dept fire_extinguisher signs_not_attached_deductible off_prem_limit_per 
+pollution_limit property_of_others debris_factor delete_loss_limit personal_property_of_others 
+expanded_premium_personal_prop territory_factors workers_discount experience_rating
+
+sorted by policy_no

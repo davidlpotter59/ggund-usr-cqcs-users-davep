@@ -1,0 +1,18 @@
+/* policy_counts_underwriter.mf
+
+   February 20, 2013
+
+   SCIPS.com
+
+   Macro to setup the policy Counts Data File
+*/
+
+clear list
+clear find
+clear sum
+cli rm policy_counts.cq
+
+run prspr1120
+rsave policy_counts
+run prspr309
+view

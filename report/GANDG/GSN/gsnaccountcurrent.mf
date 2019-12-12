@@ -1,0 +1,16 @@
+clear list
+clear find
+clear sum
+run/set/param=arsdates /usr/cqcs/users/davep/report/GANDG/GSN/arspremium.eq
+run/param=arsdates /usr/cqcs/users/davep/report/GANDG/GSN/arspremium.eq
+run/param=arsdates /usr/cqcs/users/davep/report/GANDG/GSN/arspremium_total.eq
+run/param=arsdates /usr/cqcs/users/davep/report/GANDG/GSN/arscheck_refund.eq
+run/param=arsdates /usr/cqcs/users/davep/report/GANDG/GSN/arsaccountcurrent_payment.eq
+view
+
+/*  put on their server
+1.  arspremium.eq
+2.  arspremium_total.eq
+3.  arsaccount_current_payment.eq
+4.  gsnaccountcurrent.mf
+*/

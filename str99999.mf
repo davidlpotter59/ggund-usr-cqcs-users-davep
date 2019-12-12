@@ -1,0 +1,8 @@
+clear list
+clear find
+clear sum
+cli rm sfspr111a.cq
+cli rm sfspr111a.cqe
+run sfspr111a   
+rsave sfspr111a      
+cli cqview -host sfspr111a   

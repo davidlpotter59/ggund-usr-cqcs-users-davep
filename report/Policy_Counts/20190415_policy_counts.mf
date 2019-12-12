@@ -1,0 +1,10 @@
+clear list
+clear find
+clear sum
+
+run/set/param="date" /usr/cqcs/users/davep/report/Policy_Counts/20190415_policy_count_test.eq
+run/param="date" /usr/cqcs/users/davep/report/Policy_Counts/20190415_policy_count_test.eq
+run /usr/cqcs/users/davep/report/Policy_Counts/20190415_policy_count_report.eq
+view
+run /usr/cqcs/users/davep/report/Policy_Counts/20190415_policy_count_report_active.eq
+view

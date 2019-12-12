@@ -1,0 +1,20 @@
+/*  November 23, 2004
+
+   SCIPS.com
+
+   Macro to setup the policy Counts Data File
+*/
+
+clear list
+clear find
+clear sum
+cli rm /data/axis/policy_counts.cqe
+cli rm /data/axis/policy_counts.cq
+cli rm policy_counts.cq
+cli env
+run/set prspr1120_detail
+run/param=prspr1120_detail prspr1120_detail
+rsave /data/axis/policy_counts
+--cli mv policy_counts.cq /data/starr
+run/param=prspr1120_detail prspr300
+view

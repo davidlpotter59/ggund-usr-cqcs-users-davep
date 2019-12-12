@@ -1,0 +1,11 @@
+clear list
+clear find
+clear sum
+cli /software/shells/price_monitor.mk
+cli mv price_monitor.dat /data/starr
+cli mv price_monitor.idx /data/starr
+run/setparameter price_monitor_date 
+cli csbatch sfsup250
+cli /software/shells/price_monitor2.sh
+run/parameter=price_monitor_date sfspr250
+view

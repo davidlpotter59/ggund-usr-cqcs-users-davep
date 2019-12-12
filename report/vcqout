@@ -1,0 +1,30 @@
+Compiling, please wait
+*** Warning: Fields may overlap ***
+Enquiry "/usr/cqcs/webreports/prspr1060" compiled - no errors
+
+CYBERQUERY              Version  Linux/386 7.30                   13-Aug-09
+Licensed Software   - Property of Cyberscience Corporation
+Copyright 1981-2009 - All Rights Reserved
+Licensed User: G&G Underwriters, L.L.C.
+411 S. State Street, Suite 1A, Newtown, PA 18940
+
+  15:39:17 Sort extract started
+  Reading prspremloss.dat
+  15:39:18  433903 Records read       0 Records selected
+  15:39:19  889099 Records read       0 Records selected
+  15:39:20 1322553 Records read       0 Records selected
+  15:39:21 1775866 Records read       0 Records selected
+  15:39:22 2215785 Records read       0 Records selected
+  15:39:23 2530463 Records read       0 Records selected
+  15:39:24 2979889 Records read       0 Records selected
+  15:39:25 3407492 Records read       0 Records selected
+  15:39:26 3453512 Records read   35378 Records selected
+  15:39:27 3509580 Records read   87898 Records selected
+  15:39:27 Sort extract completed
+
+  15:39:27 Report started
+*** Warning: Division by zero detected
+  15:39:28   34129 Records processed   15 pages written
+  15:39:29   64793 Records processed   30 pages written
+  15:39:30   87898 Records processed   56 pages written
+  15:39:30 Report completed

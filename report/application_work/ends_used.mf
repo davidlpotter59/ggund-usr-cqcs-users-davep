@@ -1,0 +1,8 @@
+clear list
+clear find
+clear sum
+
+run /usr/cqcs/users/davep/report/application_work/sfsoptenda_hold.eq
+cli mv ends_used.hf /data/axis/
+run /usr/cqcs/users/davep/report/application_work/ends_used
+view

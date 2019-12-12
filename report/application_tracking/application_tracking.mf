@@ -1,0 +1,26 @@
+/*  application_tracking.mf
+
+    July 22, 2016
+
+    SCIPS.com, Inc.
+
+    report to show all applications and quotes processed within a date range
+    
+*/
+
+clear list
+clear find
+clear sum
+
+
+
+run/set/param=app_date agqname_hold
+run/param=app_date agqname_hold
+run/param=app_date sfqname_hold
+run/param=app_date application_tracking_list_using_hold
+view
+
+/* cleanup */
+hfunsave applications_hold
+runsave application_tracking_list_using_hold
+cli rm app_date.par

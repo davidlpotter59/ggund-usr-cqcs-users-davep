@@ -1,0 +1,7 @@
+clear list
+clear sum
+clear find
+
+run /usr/cqcs/users/davep/reports/sfsend_all
+cli mv forms.hf /data/gsn/
+cli mv forms.hfx /data/gsn

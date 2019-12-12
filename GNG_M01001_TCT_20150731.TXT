@@ -1,0 +1,2 @@
+Control_File_Bordereau_Date|TFS_Record_Count|Total_TFS_Amount_MTD
+2015-07-31|600|19027.00

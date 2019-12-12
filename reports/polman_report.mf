@@ -1,0 +1,12 @@
+clear list
+clear find
+clear sum
+
+run/set/param="polman_dates" polman_hold
+run/param="polman_dates" polman_hold
+cli mv polman_hold.hf /data/axis/
+cli mv polman_hold.hfd /data/axis/
+cli mv polman_hold.hfx /data/axis/
+
+run/param="polman_dates" sfpname_to_policy_management_system_hold.eq
+view
